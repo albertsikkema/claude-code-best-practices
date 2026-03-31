@@ -65,6 +65,12 @@ These files are discussed in detail in a three-part blog series:
 - [ePrivacy Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009L0136-20201221) - Cookie/consent requirements
 - [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) - General Data Protection Regulation
 
+## Support
+
+If these files save you time, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/albertsikkema)
+
 ## License
 
-Free to use. Adapt to your stack, your standards, your needs.
+MIT License. Free to use. Adapt to your stack, your standards, your needs.
