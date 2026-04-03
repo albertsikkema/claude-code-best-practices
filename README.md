@@ -1,6 +1,6 @@
 # Claude Code Best Practices
 
-18 best practice files that keep AI-generated code production-ready. Grounded in standards like RFC 9457, WCAG 2.2, OWASP Top 10, and DAMA-DMBOK, not opinions.
+19 best practice files that keep AI-generated code production-ready. Grounded in standards like RFC 9457, WCAG 2.2, OWASP Top 10, and DAMA-DMBOK, not opinions.
 
 These are part of my Claude Code setup, refined over 2,000+ hours of iteration. They work by giving the model deep knowledge about how production software should work, so it makes better decisions in situations you never anticipated.
 
@@ -26,12 +26,13 @@ These are part of my Claude Code setup, refined over 2,000+ hours of iteration. 
 | [Robots and Scraping](best-practices/robots-and-scraping.md) | AI crawlers training on your content, unprotected APIs |
 | [Background Job Patterns](best-practices/background-job-patterns.md) | Lost jobs, no idempotency, no graceful shutdown |
 | [LLM Integration Patterns](best-practices/llm-integration-patterns.md) | Expensive calls for deterministic work, unparsed output |
+| [Performance Optimization](best-practices/performance-optimization.md) | Premature optimization, unmeasured tuning, wrong data structures |
 
 ## How to use
 
 Drop the files into a directory your Claude Code setup can reference. The model picks them up without special configuration, they just need to be part of the context.
 
-You don't need to load all 18 files every time. Load what's relevant:
+You don't need to load all 19 files every time. Load what's relevant:
 - **Planning a feature?** Load the architecture, error handling, and testing files.
 - **Reviewing a PR?** Load the files relevant to what changed.
 - **Building an API?** Load API design, error handling, authorization.
