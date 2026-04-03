@@ -51,11 +51,10 @@ The requirements and specifications are not included here yet. The best practice
 
 ## Blog series
 
-These files are discussed in detail in a three-part blog series:
+These files are discussed in detail in a two-part blog series:
 
 - [Part 1: Architecture, Error Handling, Testing, API Design, Data Integrity, Structured Logging](https://albertsikkema.com/ai/development/best-practices/2026/03/31/evidence-based-best-practices-ai-guardrails.html)
-- Part 2: Security, Privacy, and Production Hardening (coming soon)
-- Part 3: Domain-Specific Guardrails (coming soon)
+- [Part 2: Security, Privacy, and Production Hardening](https://albertsikkema.com/ai/development/best-practices/security/2026/04/01/security-privacy-production-hardening-ai-guardrails.html)
 
 ## Standards referenced
 
